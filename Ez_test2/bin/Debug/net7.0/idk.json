@@ -1,0 +1,21 @@
+﻿{
+  "films": [
+    {
+      "title": "Gura Film",
+      "directorId": 69,
+      "imDbRating": 100.0,
+      "category": [
+        "anime",
+        "life-changing"
+      ],
+      "releaseYear": 2023
+    }
+  ],
+  "directors": [
+    {
+      "id": 6969,
+      "firstName": "Ame",
+      "lastName": "Watson"
+    }
+  ]
+}

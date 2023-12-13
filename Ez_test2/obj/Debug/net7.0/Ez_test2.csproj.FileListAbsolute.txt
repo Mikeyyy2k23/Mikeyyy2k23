@@ -1,0 +1,15 @@
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\bin\Debug\net7.0\Ez_test2.exe
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\bin\Debug\net7.0\Ez_test2.deps.json
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\bin\Debug\net7.0\Ez_test2.runtimeconfig.json
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\bin\Debug\net7.0\Ez_test2.dll
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\bin\Debug\net7.0\Ez_test2.pdb
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.AssemblyInfoInputs.cache
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.AssemblyInfo.cs
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.csproj.CoreCompileInputs.cache
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.sourcelink.json
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.dll
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\refint\Ez_test2.dll
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.pdb
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\Ez_test2.genruntimeconfig.cache
+C:\Users\tonda\Documents\MEGA\VSB\C#\Test2\Michal\Ez_test2\obj\Debug\net7.0\ref\Ez_test2.dll
